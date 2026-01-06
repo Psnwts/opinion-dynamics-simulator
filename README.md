@@ -3,7 +3,7 @@
 Agent-based models for opinion formation in social networks.
 
 ## Live Demo
-🚀 [Coming soon - will deploy to Streamlit Cloud]
+🚀 https://opinion-dynamics-simulator-dlwtnaumkshdryj724cvjs.streamlit.app/
 
 ## Models
 - **Base (Deffuant):** Pairwise opinion convergence
